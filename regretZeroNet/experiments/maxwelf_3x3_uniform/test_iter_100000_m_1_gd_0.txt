@@ -1,0 +1,2 @@
+2023-05-08 14:27:46,195:INFO:TEST BATCH-8: t = 0.0046, Revenue: 1.139620, Welfare: 1.096505, Buyer_Regret: 0.001557, Seller_Regret: 0.000321, Regret: 0.000939, Buyer_IRP: 0.000000, Seller_IRP: 0.000000, Auctioneer_IRP: 0.000000, Entropy: 0.006430
+2023-05-08 14:27:46,195:INFO:TEST ALL-100000: t = 0.0046, Revenue: 1.139620, Welfare: 1.096505, Buyer_Regret: 0.001557, Seller_Regret: 0.000321, Regret: 0.000939, Buyer_IRP: 0.000000, Seller_IRP: 0.000000, Auctioneer_IRP: 0.000000, Entropy: 0.006430
